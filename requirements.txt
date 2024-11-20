@@ -3,3 +3,4 @@ pymongo
 pycryptodome
 flask_cors
 gunicorn
+python-dotenv
